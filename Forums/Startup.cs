@@ -9,8 +9,8 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Forums.Data;
-using Forums.Models;
 using Forums.Services;
+using Forums.Data.Models;
 
 namespace Forums
 {
