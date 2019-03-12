@@ -10,9 +10,9 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using Forums.Models;
 using Forums.Models.ManageViewModels;
 using Forums.Services;
+using Forums.Data.Models;
 
 namespace Forums.Controllers
 {
